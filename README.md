@@ -1,6 +1,6 @@
 # framework structure
-## It's based on a LITE MVC structure
 ![](./git_img/structure.jpg)
+
 
 # Prepartion
 ## Download weight

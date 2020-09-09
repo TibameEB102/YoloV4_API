@@ -1,0 +1,41 @@
++---app
+|   |   __init__.py
+|   |   
+|   +---Controller
+|   |       YoloV4Controller.py
+|   |       
+|   +---Service
+|   |       YoloV4Service.py
+|   |       
+|   +---static
+|   |   +---get_img
+|   |   |       get_img.jpg
+|   |   |       get_img1.jpg
+|   |   |       
+|   |   \---result_img
+|   \---utils
+|       |   test.py
+|       |   
+|       +---font
+|       |       FiraMono-Medium.otf
+|       |       SIL Open Font License.txt
+|       |       
+|       +---model_data
+|       |       coco_classes.txt
+|       |       obj_classes.txt
+|       |       tiny_yolo_anchors.txt
+|       |       voc_classes.txt
+|       |       yolo-obj_last.weights
+|       |       yolo4_anchors.txt
+|       |       yolo_anchors.txt
+|       |       yolo_obj_weights.h5
+|       |       
+|       \---yolo4
+|               model.py
+|               utils.py
+|               __init__.py
+|               
+\---git_img
+        result.jpg
+        structure.jpg
+        
