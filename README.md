@@ -1,3 +1,7 @@
+# framework structure
+## It's based on a LITE MVC structure
+![](./git_img/structure.jpg)
+
 # Prepartion
 ## Download weight
 [Yolo_obj_weights.h5](https://drive.google.com/file/d/1NqbM5jsrSCPd25o2YSzQ0n4hv_QGKuXb/view?usp=sharing)
